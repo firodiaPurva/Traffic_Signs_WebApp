@@ -66,6 +66,19 @@ To run the project, follow these steps:
    python test_model.py
    ```
 
+## Results
+
+## Here are some screenshots of the web application after running the model:
+
+
+### The interface for uploading a traffic sign image.
+<br>
+<img src="https://github.com/firodiaPurva/Traffic_Signs_WebApp/blob/main/1.PNG" alt="The interface for uploading a traffic sign image" width="600" height="600">
+
+### The predicted traffic sign classification result.
+<br>
+<img src="https://github.com/firodiaPurva/Traffic_Signs_WebApp/blob/main/2.PNG" alt="The predicted traffic sign classification result" width="600" height="600">
+
 ## Conclusion
 
 This project showcases the successful implementation of a CNN-based traffic sign recognition and classification system, achieving significant accuracy and precision rates. The enhancement in VR image recognition applications demonstrates the model's potential for real-world applications in autonomous driving and ADAS.
