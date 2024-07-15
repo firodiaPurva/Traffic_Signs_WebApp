@@ -42,30 +42,6 @@ The project uses a dataset of traffic sign images. This dataset is split into tr
 - **ReLU (Rectified Linear Unit)**: An activation function that helps in speeding up the training process and introducing non-linearity.
 - **SoftMax Function**: Used for the classification task in the output layer to provide probability distribution across multiple classes.
 
-## Usage
-
-To run the project, follow these steps:
-
-1. **Clone the Repository**: 
-   ```bash
-   git clone https://github.com/firodiaPurva/Traffic_Signs_WebApp
-   ```
-
-2. **Install Dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Train the Model**:
-   ```bash
-   python train_model.py
-   ```
-
-4. **Test the Model**:
-   ```bash
-   python test_model.py
-   ```
-
 ## Results
 
 ## Here are some screenshots of the web application after running the model:
