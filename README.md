@@ -48,7 +48,7 @@ To run the project, follow these steps:
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/yourusername/traffic-sign-recognition.git
+   git clone https://github.com/firodiaPurva/Traffic_Signs_WebApp
    ```
 
 2. **Install Dependencies**:
